@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673225297685",
+    "project_id": "a-sketcher",
+    "storage_bucket": "a-sketcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673225297685:android:7426137c0047e562d9e31c",
+        "android_client_info": {
+          "package_name": "com.example.ar_sketcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673225297685-hee5nv8269jl8h28hk8ugg0ibieeccik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRivDt-bO_Lst0kEoKk-OuJiTKODtsJD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673225297685-hee5nv8269jl8h28hk8ugg0ibieeccik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
