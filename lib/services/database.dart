@@ -21,6 +21,7 @@ class Database {
       await _firestore.collection("users").doc(userModel.id).set({
         "name": userModel.name,
         "email": userModel.email,
+        "isMetric": true,
       });
       _firestore
           .collection("users")
